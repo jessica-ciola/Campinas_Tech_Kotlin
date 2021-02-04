@@ -15,7 +15,7 @@ fun main() {
     println(w&&y) // Retorna True
 
     println("Retorna True com &&: " + z) //and retornando true
-       
+
 
 
 }
