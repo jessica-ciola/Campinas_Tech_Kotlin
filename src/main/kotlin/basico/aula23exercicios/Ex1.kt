@@ -17,6 +17,4 @@ fun main(){
 
 }
 
-/*fun recebeLista(numeros: MutableList<String>):MutableList<String>{
-
-}/*
+//*fun recebeLista(numeros: MutableList<String>):MutableList<String>{
